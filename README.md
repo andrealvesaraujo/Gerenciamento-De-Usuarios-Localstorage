@@ -5,7 +5,7 @@ Projeto do curso Da Udemy de Javascript feito em 2021( https://www.udemy.com/cou
 
 # Link da aplicação:
 
-https://gerenciamento-de-usuarios-andrealvesaraujo.vercel.app/
+https://gerenciamento-de-usuarios-localstorage-andrealvesaraujo.vercel.app/
 
 ## Video de Uso
 

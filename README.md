@@ -24,14 +24,7 @@ https://user-images.githubusercontent.com/18336972/116742853-5b985880-a9ce-11eb-
 
 ### Uso do Projeto
 
-Para usar instale os componentes bower com o comando abaixo: 
-
-```
-bower -install
-
-```
-
-Então abra o documento abaixo:
+Só abrir documento abaixo:
 
 ```
 index.html
